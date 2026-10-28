@@ -1,0 +1,12 @@
+.vs/
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.user
+*.suo
